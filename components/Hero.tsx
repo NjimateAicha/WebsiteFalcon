@@ -33,7 +33,7 @@ export default function Hero({ lang, t }: HeroProps) {
           {h.sub2}
           <strong>{h.sub3}</strong>
           {h.sub4}
-          <strong>{h.sub5}</strong>
+          {/* <strong>{h.sub5}</strong> */}
           {h.sub6}
         </p>
 
